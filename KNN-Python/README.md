@@ -30,3 +30,8 @@ You can install NumPy with:
 ```bash
 pip install numpy
 
+```
+
+Run
+```bash
+python example\main.py
